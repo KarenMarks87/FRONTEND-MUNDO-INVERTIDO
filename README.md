@@ -7,6 +7,8 @@ Landing Page Mundo Invertido
 
 <p>Uma landing page inspirada na série Stranger Things, com integração ao Firebase para inscrições no Clube de D&D. Aulas ministradas pela Digital Innovation One.</p>
 
+<ul src="http://127.0.0.1:5500/index.html">Demonstração</ul>
+
 ## 💻 Tecnologias
 - HTML
 - CSS
